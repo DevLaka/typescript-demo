@@ -1,2 +1,2 @@
 let i: number = 5;
-i = "7";
+console.log("i: ", i);
